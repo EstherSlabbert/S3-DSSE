@@ -1,11 +1,14 @@
 # AWS's S3 DSSE (Amazon Web Service's Simple Storage Service Dual Server-Side Encryption)
 
+[Dual-Server-Side-Encryption on AWS S3 documentation](https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingDSSEncryption.html)
+
+## Table of Contents
+
 - [DSSE on preconfigured bucket](#dsse-on-preconfigured-bucket)
 - [DSSE on object in preconfigured bucket](#dsse-on-object-in-preconfigured-bucket)
 - [DSSE on bucket when configuring it](#dsse-on-bucket-when-configuring-it)
 - [Configuring KMS Key for DSSE](#configuring-kms-key-for-dsse)
-
-[Dual-Server-Side-Encryption on AWS S3 documentation](https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingDSSEncryption.html)
+- [Pricing](#pricing)
 
 ## DSSE on preconfigured bucket
 
