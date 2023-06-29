@@ -2,6 +2,8 @@
 
 [Dual-Server-Side-Encryption on AWS S3 documentation](https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingDSSEncryption.html)
 
+[New – Amazon S3 Dual-Layer Server-Side Encryption with Keys Stored in AWS Key Management Service (DSSE-KMS) blog (June 2023)](https://aws.amazon.com/blogs/aws/new-amazon-s3-dual-layer-server-side-encryption-with-keys-stored-in-aws-key-management-service-dsse-kms/)
+
 ## Table of Contents
 
 - [DSSE on preconfigured bucket](#dsse-on-preconfigured-bucket)
