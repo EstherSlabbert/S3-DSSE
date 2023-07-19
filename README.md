@@ -26,11 +26,11 @@
 
 ![DSSE object 1](/images/enable-dsse-already-created-bucket-object-1.png)
 
-![DSSE object 2](/images/enable-dsse-already-created-bucket-object-1.png)
+![DSSE object 2](/images/enable-dsse-already-created-bucket-object-2.png)
 
-![DSSE object 3](/images/enable-dsse-already-created-bucket-object-1.png)
+![DSSE object 3](/images/enable-dsse-already-created-bucket-object-3.png)
 
-![DSSE object 4](/images/enable-dsse-already-created-bucket-object-1.png)
+![DSSE object 4](/images/enable-dsse-already-created-bucket-object-4.png)
 
 ## DSSE on bucket when configuring it
 
